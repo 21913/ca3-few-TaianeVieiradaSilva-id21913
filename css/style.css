@@ -1,0 +1,174 @@
+body {
+  display: block;
+  overflow-x: hidden;
+}
+nav {
+  background-color: #252B5D;
+}
+.navbar-brand img {
+  max-height: 40px;
+}
+.navbar-brand {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #252B5D;
+  text-align: center;
+  
+}
+
+nav ul li a {
+  color: #a9a9a9;
+  font-size: 16px;
+  text-align: right;
+  margin: auto 4px;
+ 
+  
+}
+nav ul li a:hover {
+  color: #a9a9a9;
+  ;
+}
+
+section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+section h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #252B5D;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+section h2 {
+  font-weight: 900;
+  color: #252B5D;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+section h3 {
+  font-size: 24px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+section h5 {
+  font-weight: 900;
+  color: #252B5D;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+section p {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+button {
+  max-width: 50%;
+  border-radius: 50px !important;
+}
+#hero .col {
+  justify-content: center; 
+  flex-direction: column;
+  display: flex;
+  margin: 8px;
+}
+#hero .img-col {
+  justify-content: flex-end; 
+  margin-top: 80px;
+  
+}
+#hero img {
+  max-width: 100% !important;
+  width: 100%;
+  margin: 8px;
+}
+#hero .card {
+  box-shadow: 11px 7px 16px #f9f9f9;
+  border: 0;
+  text-align: center;
+  margin: 8px;
+}
+#hero .icon {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 200px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+ }
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 60%; background-color: #252B5D;} 
+.css {width: 60%; background-color: #252B5D;} 
+.js {width: 50%; background-color: #252B5D;} 
+.bootstrap {width: 65%; background-color: #252B5D;} 
+.figma {width: 90%; background-color: #252B5D;} 
+.illustrator {width: 60%; background-color: #252B5D;} 
+.procreate {width: 80%; background-color: #252B5D;} 
+
+#contact {
+  text-align: center;
+  background-color: #252B5D;
+  color: white;
+}
+#contact h1 {
+  text-align: center;
+  color: white;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.footer {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+#projects .projects {
+  margin-bottom: 50px;
+ }
+
+ #experiences {
+  padding-bottom: 0px;
+  padding-top: 50px;
+ }
+
