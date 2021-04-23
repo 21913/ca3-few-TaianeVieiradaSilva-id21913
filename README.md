@@ -5,8 +5,9 @@ Taiane Vieira da Silva ID 21913
 CA FRONT-END WEB 3 DEVELOPMENT
 
 MY WEB SUMMARY
-<link> modest-goodall-15d7d1.netlify.app </link>
+modest-goodall-15d7d1.netlify.app 
 
+<br>
 This project was designed as a summary of my curriculum and also of the skills acquired in the field of Front-End Web. With the help of tutor Erika Volodko it was possible to bring the combination of my current academic area and my passion for education.
 
 Boostrap 5 and the W3 Schools website were used as a base. The colours used Blue, White, Gray and Black.
